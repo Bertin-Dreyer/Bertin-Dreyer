@@ -28,14 +28,14 @@ I'm ambitious beyond what people expect from a junior with no formal experience 
 
 ## Projects
 
-### Secrets Access Project
-*Authentication and access control from scratch*
+### Secrets Vault
+*Authentication built three ways — Passport.js → custom JWT → Supabase*
 
-A server-side application exploring security fundamentals — custom middleware, bcrypt password hashing, Passport.js OAuth flows, and rate limiting. The foundation that informed the security patterns in every project since.
+A secure full-stack application that evolved through three authentication implementations. Started with Passport.js sessions, migrated to a custom JWT system with bcrypt and manual token signing, then migrated again to Supabase Auth with Row Level Security — each time understanding the tradeoffs well enough to know why the next approach was better. Deployed on Vercel.
 
-**Stack:** Node.js · Express · PostgreSQL · Passport.js · bcrypt · Supabase
+**Stack:** Node.js · Express · Supabase · bcrypt · JWT · Passport.js · RLS · EJS
 
-[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bertin-Dreyer/Secrets-Access-Project)
+[![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bertin-Dreyer/secure-vault)
 
 ---
 
@@ -80,7 +80,7 @@ Languages:     JavaScript (ES2024) · SQL
 Frontend:      React · Vite · HTML5 · CSS3 · Axios
 Backend:       Node.js · Express · REST APIs
 Databases:     PostgreSQL · Supabase
-Auth:          JWT · bcrypt · Passport.js · OAuth 2.0
+Auth:          JWT · bcrypt · OAuth 2.0
 Security:      Helmet.js · express-validator · express-rate-limit
 Deployment:    Vercel · Railway
 Tools:         Git
