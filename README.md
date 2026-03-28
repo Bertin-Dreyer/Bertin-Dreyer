@@ -117,7 +117,8 @@ Tools:         Git
 | **Other** | Artificial Intelligence Techniques · Computer Graphics · Visual Programming I *(Distinction)* · Visual Programming II *(Distinction)* · Human-Computer Interaction · Statistics *(Distinction)* · Linear Algebra |
 
 **Angela Yu Full Stack Web Development Bootcamp** *(completed)*
-PERN Stack · REST APIs · Authentication patterns · React
+
+PERN stack · REST APIs · Authentication patterns · React
 
 ---
 
