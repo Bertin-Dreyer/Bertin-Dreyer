@@ -60,6 +60,8 @@ A full-stack PERN application and the project where I went deep on financial API
 [![Repo](https://img.shields.io/badge/Repo-View-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bertin-Dreyer/PersonalBudgetTracker)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00d4aa?style=for-the-badge)](https://wallet-dashboard-azure.vercel.app)
 
+**NOTE** : *Backend database was Railway, I had a trail there so login does not work unless I pay $5 a month. Will be moving to Supabase.*
+
 ---
 
 ### OMNIPAY-Legacy · Omni Wallet
